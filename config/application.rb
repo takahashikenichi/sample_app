@@ -17,6 +17,7 @@ module SampleApp
     # the framework and any gems in your application.
     config.hosts << ".amazonaws.com"
     config.hosts << ".herokuapp.com"
+    config.hosts << "www.example.com"
 
   end
 end
